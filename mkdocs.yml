@@ -1,0 +1,27 @@
+site_name: Online CV
+site_url: https://dlicudi.github.io/online-cv
+theme:
+  name: material
+  features:
+    - navigation.tabs  
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+  palette:
+    scheme: slate
+    primary: blue grey
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
