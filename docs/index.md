@@ -3,7 +3,6 @@
 !!! warning
     Pending update to reflect current experience. 
 
-
 ## Summary
 
 Linux System Administrator with more than ten years experience working
