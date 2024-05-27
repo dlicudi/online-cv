@@ -10,7 +10,7 @@ I have extensive experience in UNIX/Linux environments within the ISP/Telecom in
 ## Contact
 
 - **Email**: dlicudi@gmail.com
-- **LinkedIn**: [linkedin.com/in/duanelicudi](https://linkedin.com/in/dlicudi)
+- **LinkedIn**: [linkedin.com/in/dlicudi](https://linkedin.com/in/dlicudi)
 - **GitHub**: [github.com/dlicudi](https://github.com/dlicudi)
 
 ## Experience
