@@ -1,18 +1,11 @@
 # Duane Licudi
 
-!!! warning
-    Pending update to reflect current experience. 
-
 ## Summary
 
-Linux System Administrator with more than ten years experience working
-in a mixed UNIX/Linux/Windows ISP/Telecoms and Online Gaming industries.
-Experience spanning over five years designing and implementing virtualisation
-infrastructures using User-mode Linux, Xen Hypervisor on RedHat and Citrix XenServer.
-Latterly focusing on Middleware applications such as ActiveMQ and Oracle Coherence and
-application monitoring with Splunk covering Middleware and other Java based applications.
-Having a strong vocation for programming I have applied various languages in
-system administration.
+Systems Integration Specialist and Developer with over 20 years of experience.
+
+I have extensive experience in UNIX/Linux environments within the ISP/Telecom industries. For the past decade, I have focused on the development and integration of systems at Gibtelecom, including implementing monitoring systems, achieving ISO 27001 compliance, and integrating a wide variety of systems into a provisioning platform.
+
 
 ## Contact
 
@@ -28,8 +21,34 @@ For detailed experience, see [Experience](experience.md).
 - **Position**: Lead Developer
 - **Duration**: Jan 2013 - July 2023
 
-At Gibtelecom I led the development and implementation of key systems, significantly enhancing operations
-and customer services.
+As the Lead Developer at Gibtelecom, I led the development and implementation of key systems, enhancing both operations and customer services. My contributions included:
+
+- Implemented a company wide monitoring system using Check_MK monitoring over 60k services. 
+- Provided systems to facilitate major migrations to Gibtelecom's IMS platform.
+- Support and integration of Ericsson's provisioning platforms (EMA/EDA).
+ 
+#### MVNO related projects
+- Developed an automated number porting system.
+- Developed a mediation platform to facilitate data warehousing and interfacing of usage records.
+- Conducted extensive penetration testing.
+
+#### Provisioning Projects
+Developed a service management platform providing an abstracted front end for both engineers and customer care, interfacing with a wide variety of systems and providing services for:
+
+- SystemX
+- IPTV services
+- Hosted PBX and converged mobility
+- Integration for eSIM provisioning
+- Panic button services
+- SIP trunks
+- Mobile provisioning
+
+#### Compliance and Standardisation:
+- Achieved ISO 27001 certification for secure development.
+- Standardized development processes.
+- Established continuous integration processes and environments.
+
+My role focused on system integration, programming, and process improvement, which were critical to delivering robust, scalable, and secure infrastructures.
 
 ### BetVictor, Gibraltar
 - **Position**: Enterprise Services Engineer
@@ -44,7 +63,6 @@ At BetVictor, I focused on supporting and improving the performance and monitori
 
 Self employed IT consultant providing IT consultancy in various areas including
 Windows Server 2003, Google Apps for Business and development of inhouse applications.
-
 
 ### Sapphire Networks, Gibraltar
 - **Position**: IT Systems Manager
@@ -80,7 +98,7 @@ For detailed skills, see [Skills](skills.md).
 - Frameworks: Flask, Django, MkDocs, FastAPI
 - Tools: Git, VS Code
 
-## Projects
+## Open Source Projects
 
 For detailed projects, see [Projects](projects.md).
 
