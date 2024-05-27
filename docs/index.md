@@ -10,7 +10,7 @@ I have extensive experience in UNIX/Linux environments within the ISP/Telecom in
 ## Contact
 
 - **Email**: dlicudi@gmail.com
-- **LinkedIn**: [linkedin.com/in/duanelicudi](https://linkedin.com/in/duanelicudi)
+- **LinkedIn**: [linkedin.com/in/duanelicudi](https://linkedin.com/in/dlicudi)
 - **GitHub**: [github.com/dlicudi](https://github.com/dlicudi)
 
 ## Experience
@@ -26,26 +26,29 @@ As the Lead Developer at Gibtelecom, I led the development and implementation of
 - Implemented a company wide monitoring system using Check_MK monitoring over 60k services. 
 - Provided systems to facilitate major migrations to Gibtelecom's IMS platform.
 - Support and integration of Ericsson's provisioning platforms (EMA/EDA).
- 
+- Developed an SMS API to provide a customer-facing service.
+
 #### MVNO related projects
 - Developed an automated number porting system.
 - Developed a mediation platform to facilitate data warehousing and interfacing of usage records.
 - Conducted extensive penetration testing.
 
 #### Provisioning Projects
+
 Developed a service management platform providing an abstracted front end for both engineers and customer care, interfacing with a wide variety of systems and providing services for:
 
 - SystemX
 - IPTV services
-- Hosted PBX and converged mobility
+- Hosted PBX and converged mobility services
 - Integration for eSIM provisioning
 - Panic button services
 - SIP trunks
-- Mobile provisioning
+- Mobile and land line provisioning
+
 
 #### Compliance and Standardisation:
 - Achieved ISO 27001 certification for secure development.
-- Standardized development processes.
+- Standardised development processes.
 - Established continuous integration processes and environments.
 
 My role focused on system integration, programming, and process improvement, which were critical to delivering robust, scalable, and secure infrastructures.
@@ -95,8 +98,9 @@ Employed in Surveying Practice as an IT Manager with particular responsibility f
 For detailed skills, see [Skills](skills.md).
 
 - Programming Languages: C, PHP, Lua, Python
-- Frameworks: Flask, Django, MkDocs, FastAPI
+- Frameworks: Flask, Django, MkDocs, FastAPI, Celery
 - Tools: Git, VS Code
+- Databases: PostgreSQL, MongoDB, MySQL/MariaDB, Oracle Database
 
 ## Open Source Projects
 
