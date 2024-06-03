@@ -2,28 +2,25 @@
 
 ## Summary
 
-Systems Integration Specialist and Developer with over 20 years of experience.
+Systems Integration Engineer and Developer with over 20 years of experience.
 
-I have extensive experience in UNIX/Linux environments within the ISP/Telecom industries. For the past decade, I have focused on the development and integration of systems at Gibtelecom, including implementing monitoring systems, achieving ISO 27001 compliance, and integrating a wide variety of systems into a provisioning platform.
+I have extensive experience in UNIX/Linux environments within the ISP/Telecom industries. For the past decade, I have focused on the development and integration of systems at Gibtelecom, including implementing monitoring systems, integrating multiple systems into a unified provisioning platform and achieving ISO 27001 compliance for secure development.
 
 
 ## Contact
-
 - **Email**: dlicudi@gmail.com
 - **LinkedIn**: [linkedin.com/in/dlicudi](https://linkedin.com/in/dlicudi)
 - **GitHub**: [github.com/dlicudi](https://github.com/dlicudi)
 
 ## Experience
 
-For detailed experience, see [Experience](experience.md).
-
 ### Gibtelecom, Gibraltar
 - **Position**: Lead Developer
 - **Duration**: Jan 2013 - July 2023
 
-As the Lead Developer at Gibtelecom, I led the development and implementation of key systems, enhancing both operations and customer services. My contributions included:
+As the Lead Developer at Gibtelecom, I was responsible for the development and implementation of key systems.
 
-- Implemented a company wide monitoring system using Check_MK monitoring over 60k services. 
+- Implementation of company wide monitoring system using Check_MK monitoring over 60k services. 
 - Provided systems to facilitate major migrations to Gibtelecom's IMS platform.
 - Support and integration of Ericsson's provisioning platforms (EMA/EDA).
 - Developed an SMS API to provide a customer-facing service.
@@ -51,7 +48,7 @@ Developed a service management platform providing an abstracted front end for bo
 - Standardised development processes.
 - Established continuous integration processes and environments.
 
-My role focused on system integration, programming, and process improvement, which were critical to delivering robust, scalable, and secure infrastructures.
+My role primarily focused on developing software that interfaced with various systems to provide provisioning and mediation functions.
 
 ### BetVictor, Gibraltar
 - **Position**: Enterprise Services Engineer
@@ -93,9 +90,12 @@ Employed in Surveying Practice as an IT Manager with particular responsibility f
 - **University of Portsmouth**: Advanced Diploma in Psychology, 1995-1997
 - **Chichester College**: Science Foundation Course, 1994-1995
 
-## Skills
+## Languages
 
-For detailed skills, see [Skills](skills.md).
+- English: Native
+- Spanish: Fluent
+
+## Skills
 
 - Programming Languages: C, PHP, Lua, Python
 - Frameworks: Flask, Django, MkDocs, FastAPI, Celery
@@ -103,8 +103,6 @@ For detailed skills, see [Skills](skills.md).
 - Databases: PostgreSQL, MongoDB, MySQL/MariaDB, Oracle Database
 
 ## Open Source Projects
-
-For detailed projects, see [Projects](projects.md).
 
 - Cockpitdecks: Contributor
 - Cockpitdecks Configs: Main Developer
